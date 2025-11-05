@@ -1,0 +1,812 @@
+[
+    {
+        "week": 1,
+        "home": "Hawai'i",
+        "away": "Stanford",
+        "conference": false
+    },
+    {
+        "week": 1,
+        "home": "NC State",
+        "away": "East Carolina",
+        "conference": false
+    },
+    {
+        "week": 1,
+        "home": "Duke",
+        "away": "Elon",
+        "conference": false
+    },
+    {
+        "week": 1,
+        "home": "Wake Forest",
+        "away": "Kennesaw State",
+        "conference": false
+    },
+    {
+        "week": 1,
+        "home": "Colorado",
+        "away": "Georgia Tech",
+        "conference": false
+    },
+    {
+        "week": 1,
+        "home": "Tennessee",
+        "away": "Syracuse",
+        "conference": false
+    },
+    {
+        "week": 1,
+        "home": "Pittsburgh",
+        "away": "Duquesne",
+        "conference": false
+    },
+    {
+        "week": 1,
+        "home": "Boston College",
+        "away": "Fordham",
+        "conference": false
+    },
+    {
+        "week": 1,
+        "home": "Louisville",
+        "away": "Eastern Kentucky",
+        "conference": false
+    },
+    {
+        "week": 1,
+        "home": "Florida State",
+        "away": "Alabama",
+        "conference": false
+    },
+    {
+        "week": 1,
+        "home": "Virginia",
+        "away": "Coastal Carolina",
+        "conference": false
+    },
+    {
+        "week": 1,
+        "home": "Clemson",
+        "away": "LSU",
+        "conference": false
+    },
+    {
+        "week": 1,
+        "home": "SMU",
+        "away": "East Texas A&M",
+        "conference": false
+    },
+    {
+        "week": 1,
+        "home": "Oregon State",
+        "away": "California",
+        "conference": false
+    },
+    {
+        "week": 1,
+        "home": "South Carolina",
+        "away": "Virginia Tech",
+        "conference": false
+    },
+    {
+        "week": 1,
+        "home": "Miami",
+        "away": "Notre Dame",
+        "conference": false
+    },
+    {
+        "week": 1,
+        "home": "North Carolina",
+        "away": "TCU",
+        "conference": false
+    },
+    {
+        "week": 2,
+        "home": "Louisville",
+        "away": "James Madison",
+        "conference": false
+    },
+    {
+        "week": 2,
+        "home": "Duke",
+        "away": "Illinois",
+        "conference": false
+    },
+    {
+        "week": 2,
+        "home": "Pittsburgh",
+        "away": "Central Michigan",
+        "conference": false
+    },
+    {
+        "week": 2,
+        "home": "NC State",
+        "away": "Virginia",
+        "conference": false
+    },
+    {
+        "week": 2,
+        "home": "Florida State",
+        "away": "East Texas A&M",
+        "conference": false
+    },
+    {
+        "week": 2,
+        "home": "SMU",
+        "away": "Baylor",
+        "conference": false
+    },
+    {
+        "week": 2,
+        "home": "Syracuse",
+        "away": "UConn",
+        "conference": false
+    },
+    {
+        "week": 2,
+        "home": "Wake Forest",
+        "away": "Western Carolina",
+        "conference": false
+    },
+    {
+        "week": 2,
+        "home": "Clemson",
+        "away": "Troy",
+        "conference": false
+    },
+    {
+        "week": 2,
+        "home": "Georgia Tech",
+        "away": "Gardner-Webb",
+        "conference": false
+    },
+    {
+        "week": 2,
+        "home": "California",
+        "away": "Texas Southern",
+        "conference": false
+    },
+    {
+        "week": 2,
+        "home": "Miami",
+        "away": "Bethune-Cookman",
+        "conference": false
+    },
+    {
+        "week": 2,
+        "home": "Charlotte",
+        "away": "North Carolina",
+        "conference": false
+    },
+    {
+        "week": 2,
+        "home": "Virginia Tech",
+        "away": "Vanderbilt",
+        "conference": false
+    },
+    {
+        "week": 2,
+        "home": "Michigan State",
+        "away": "Boston College",
+        "conference": false
+    },
+    {
+        "week": 2,
+        "home": "BYU",
+        "away": "Stanford",
+        "conference": false
+    },
+    {
+        "week": 3,
+        "home": "Wake Forest",
+        "away": "NC State",
+        "conference": true
+    },
+    {
+        "week": 3,
+        "home": "Syracuse",
+        "away": "Colgate",
+        "conference": false
+    },
+    {
+        "week": 3,
+        "home": "Virginia",
+        "away": "William & Mary",
+        "conference": false
+    },
+    {
+        "week": 3,
+        "home": "Georgia Tech",
+        "away": "Clemson",
+        "conference": true
+    },
+    {
+        "week": 3,
+        "home": "Missouri State",
+        "away": "SMU",
+        "conference": false
+    },
+    {
+        "week": 3,
+        "home": "North Carolina",
+        "away": "Richmond",
+        "conference": false
+    },
+    {
+        "week": 3,
+        "home": "West Virginia",
+        "away": "Pittsburgh",
+        "conference": false
+    },
+    {
+        "week": 3,
+        "home": "Miami",
+        "away": "South Florida",
+        "conference": false
+    },
+    {
+        "week": 3,
+        "home": "Virginia Tech",
+        "away": "Old Dominion",
+        "conference": false
+    },
+    {
+        "week": 3,
+        "home": "Tulane",
+        "away": "Duke",
+        "conference": false
+    },
+    {
+        "week": 3,
+        "home": "California",
+        "away": "Minnesota",
+        "conference": false
+    },
+    {
+        "week": 3,
+        "home": "Stanford",
+        "away": "Boston College",
+        "conference": true
+    },
+    {
+        "week": 4,
+        "home": "Virginia Tech",
+        "away": "Wofford",
+        "conference": false
+    },
+    {
+        "week": 4,
+        "home": "Louisville",
+        "away": "Bowling Green",
+        "conference": false
+    },
+    {
+        "week": 4,
+        "home": "Clemson",
+        "away": "Syracuse",
+        "conference": true
+    },
+    {
+        "week": 4,
+        "home": "TCU",
+        "away": "SMU",
+        "conference": false
+    },
+    {
+        "week": 4,
+        "home": "Florida State",
+        "away": "Kent State",
+        "conference": false
+    },
+    {
+        "week": 4,
+        "home": "UCF",
+        "away": "North Carolina",
+        "conference": false
+    },
+    {
+        "week": 4,
+        "home": "Duke",
+        "away": "NC State",
+        "conference": true
+    },
+    {
+        "week": 4,
+        "home": "Georgia Tech",
+        "away": "Temple",
+        "conference": false
+    },
+    {
+        "week": 4,
+        "home": "Virginia",
+        "away": "Stanford",
+        "conference": true
+    },
+    {
+        "week": 4,
+        "home": "Miami",
+        "away": "Florida",
+        "conference": false
+    },
+    {
+        "week": 4,
+        "home": "San Diego State",
+        "away": "California",
+        "conference": false
+    },
+    {
+        "week": 5,
+        "home": "Virginia",
+        "away": "Florida State",
+        "conference": true
+    },
+    {
+        "week": 5,
+        "home": "Syracuse",
+        "away": "Duke",
+        "conference": true
+    },
+    {
+        "week": 5,
+        "home": "Wake Forest",
+        "away": "Georgia Tech",
+        "conference": true
+    },
+    {
+        "week": 5,
+        "home": "Pittsburgh",
+        "away": "Louisville",
+        "conference": true
+    },
+    {
+        "week": 5,
+        "home": "Boston College",
+        "away": "California",
+        "conference": true
+    },
+    {
+        "week": 5,
+        "home": "NC State",
+        "away": "Virginia Tech",
+        "conference": true
+    },
+    {
+        "week": 5,
+        "home": "Stanford",
+        "away": "San Jos\u00e9 State",
+        "conference": false
+    },
+    {
+        "week": 6,
+        "home": "North Carolina",
+        "away": "Clemson",
+        "conference": true
+    },
+    {
+        "week": 6,
+        "home": "Pittsburgh",
+        "away": "Boston College",
+        "conference": true
+    },
+    {
+        "week": 6,
+        "home": "Virginia Tech",
+        "away": "Wake Forest",
+        "conference": true
+    },
+    {
+        "week": 6,
+        "home": "NC State",
+        "away": "Campbell",
+        "conference": false
+    },
+    {
+        "week": 6,
+        "home": "SMU",
+        "away": "Syracuse",
+        "conference": true
+    },
+    {
+        "week": 6,
+        "home": "Louisville",
+        "away": "Virginia",
+        "conference": true
+    },
+    {
+        "week": 6,
+        "home": "Florida State",
+        "away": "Miami",
+        "conference": true
+    },
+    {
+        "week": 6,
+        "home": "California",
+        "away": "Duke",
+        "conference": true
+    },
+    {
+        "week": 7,
+        "home": "Florida State",
+        "away": "Pittsburgh",
+        "conference": true
+    },
+    {
+        "week": 7,
+        "home": "SMU",
+        "away": "Stanford",
+        "conference": true
+    },
+    {
+        "week": 7,
+        "home": "Oregon State",
+        "away": "Wake Forest",
+        "conference": false
+    },
+    {
+        "week": 7,
+        "home": "Georgia Tech",
+        "away": "Virginia Tech",
+        "conference": true
+    },
+    {
+        "week": 7,
+        "home": "Notre Dame",
+        "away": "NC State",
+        "conference": false
+    },
+    {
+        "week": 7,
+        "home": "Boston College",
+        "away": "Clemson",
+        "conference": true
+    },
+    {
+        "week": 8,
+        "home": "Miami",
+        "away": "Louisville",
+        "conference": true
+    },
+    {
+        "week": 8,
+        "home": "California",
+        "away": "North Carolina",
+        "conference": true
+    },
+    {
+        "week": 8,
+        "home": "Boston College",
+        "away": "UConn",
+        "conference": false
+    },
+    {
+        "week": 8,
+        "home": "Duke",
+        "away": "Georgia Tech",
+        "conference": true
+    },
+    {
+        "week": 8,
+        "home": "Clemson",
+        "away": "SMU",
+        "conference": true
+    },
+    {
+        "week": 8,
+        "home": "Virginia",
+        "away": "Washington State",
+        "conference": false
+    },
+    {
+        "week": 8,
+        "home": "Syracuse",
+        "away": "Pittsburgh",
+        "conference": true
+    },
+    {
+        "week": 8,
+        "home": "Stanford",
+        "away": "Florida State",
+        "conference": true
+    },
+    {
+        "week": 9,
+        "home": "Virginia Tech",
+        "away": "California",
+        "conference": true
+    },
+    {
+        "week": 9,
+        "home": "Georgia Tech",
+        "away": "Syracuse",
+        "conference": true
+    },
+    {
+        "week": 9,
+        "home": "Wake Forest",
+        "away": "SMU",
+        "conference": true
+    },
+    {
+        "week": 9,
+        "home": "North Carolina",
+        "away": "Virginia",
+        "conference": true
+    },
+    {
+        "week": 9,
+        "home": "Pittsburgh",
+        "away": "NC State",
+        "conference": true
+    },
+    {
+        "week": 9,
+        "home": "Miami",
+        "away": "Stanford",
+        "conference": true
+    },
+    {
+        "week": 9,
+        "home": "Louisville",
+        "away": "Boston College",
+        "conference": true
+    },
+    {
+        "week": 10,
+        "home": "Syracuse",
+        "away": "North Carolina",
+        "conference": true
+    },
+    {
+        "week": 10,
+        "home": "SMU",
+        "away": "Miami",
+        "conference": true
+    },
+    {
+        "week": 10,
+        "home": "Clemson",
+        "away": "Duke",
+        "conference": true
+    },
+    {
+        "week": 10,
+        "home": "Virginia Tech",
+        "away": "Louisville",
+        "conference": true
+    },
+    {
+        "week": 10,
+        "home": "Stanford",
+        "away": "Pittsburgh",
+        "conference": true
+    },
+    {
+        "week": 10,
+        "home": "Boston College",
+        "away": "Notre Dame",
+        "conference": false
+    },
+    {
+        "week": 10,
+        "home": "California",
+        "away": "Virginia",
+        "conference": true
+    },
+    {
+        "week": 10,
+        "home": "Florida State",
+        "away": "Wake Forest",
+        "conference": true
+    },
+    {
+        "week": 10,
+        "home": "NC State",
+        "away": "Georgia Tech",
+        "conference": true
+    },
+    {
+        "week": 11,
+        "home": "Boston College",
+        "away": "SMU",
+        "conference": true
+    },
+    {
+        "week": 11,
+        "home": "UConn",
+        "away": "Duke",
+        "conference": false
+    },
+    {
+        "week": 11,
+        "home": "Miami",
+        "away": "Syracuse",
+        "conference": true
+    },
+    {
+        "week": 11,
+        "home": "North Carolina",
+        "away": "Stanford",
+        "conference": true
+    },
+    {
+        "week": 11,
+        "home": "Louisville",
+        "away": "California",
+        "conference": true
+    },
+    {
+        "week": 11,
+        "home": "Clemson",
+        "away": "Florida State",
+        "conference": true
+    },
+    {
+        "week": 11,
+        "home": "Virginia",
+        "away": "Wake Forest",
+        "conference": true
+    },
+    {
+        "week": 12,
+        "home": "Louisville",
+        "away": "Clemson",
+        "conference": true
+    },
+    {
+        "week": 12,
+        "home": "Boston College",
+        "away": "Georgia Tech",
+        "conference": true
+    },
+    {
+        "week": 12,
+        "home": "Duke",
+        "away": "Virginia",
+        "conference": true
+    },
+    {
+        "week": 12,
+        "home": "Florida State",
+        "away": "Virginia Tech",
+        "conference": true
+    },
+    {
+        "week": 12,
+        "home": "Pittsburgh",
+        "away": "Notre Dame",
+        "conference": false
+    },
+    {
+        "week": 12,
+        "home": "Wake Forest",
+        "away": "North Carolina",
+        "conference": true
+    },
+    {
+        "week": 12,
+        "home": "Miami",
+        "away": "NC State",
+        "conference": true
+    },
+    {
+        "week": 13,
+        "home": "NC State",
+        "away": "Florida State",
+        "conference": true
+    },
+    {
+        "week": 13,
+        "home": "SMU",
+        "away": "Louisville",
+        "conference": true
+    },
+    {
+        "week": 13,
+        "home": "North Carolina",
+        "away": "Duke",
+        "conference": true
+    },
+    {
+        "week": 13,
+        "home": "Clemson",
+        "away": "Furman",
+        "conference": false
+    },
+    {
+        "week": 13,
+        "home": "Georgia Tech",
+        "away": "Pittsburgh",
+        "conference": true
+    },
+    {
+        "week": 13,
+        "home": "Virginia Tech",
+        "away": "Miami",
+        "conference": true
+    },
+    {
+        "week": 13,
+        "home": "Stanford",
+        "away": "California",
+        "conference": true
+    },
+    {
+        "week": 13,
+        "home": "Wake Forest",
+        "away": "Delaware",
+        "conference": false
+    },
+    {
+        "week": 13,
+        "home": "Notre Dame",
+        "away": "Syracuse",
+        "conference": false
+    },
+    {
+        "week": 14,
+        "home": "Georgia Tech",
+        "away": "Georgia",
+        "conference": false
+    },
+    {
+        "week": 14,
+        "home": "California",
+        "away": "SMU",
+        "conference": true
+    },
+    {
+        "week": 14,
+        "home": "Duke",
+        "away": "Wake Forest",
+        "conference": true
+    },
+    {
+        "week": 14,
+        "home": "Pittsburgh",
+        "away": "Miami",
+        "conference": true
+    },
+    {
+        "week": 14,
+        "home": "Louisville",
+        "away": "Kentucky",
+        "conference": false
+    },
+    {
+        "week": 14,
+        "home": "Florida",
+        "away": "Florida State",
+        "conference": false
+    },
+    {
+        "week": 14,
+        "home": "NC State",
+        "away": "North Carolina",
+        "conference": true
+    },
+    {
+        "week": 14,
+        "home": "Virginia",
+        "away": "Virginia Tech",
+        "conference": true
+    },
+    {
+        "week": 14,
+        "home": "Syracuse",
+        "away": "Boston College",
+        "conference": true
+    },
+    {
+        "week": 14,
+        "home": "Stanford",
+        "away": "Notre Dame",
+        "conference": false
+    },
+    {
+        "week": 14,
+        "home": "South Carolina",
+        "away": "Clemson",
+        "conference": false
+    }
+]

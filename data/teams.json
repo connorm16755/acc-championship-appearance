@@ -1,0 +1,121 @@
+[
+    {
+        "team": "Stanford",
+        "wins": 3,
+        "losses": 6,
+        "conferenceWins": 2,
+        "conferenceLosses": 4
+    },
+    {
+        "team": "California",
+        "wins": 5,
+        "losses": 4,
+        "conferenceWins": 2,
+        "conferenceLosses": 3
+    },
+    {
+        "team": "Florida State",
+        "wins": 4,
+        "losses": 4,
+        "conferenceWins": 1,
+        "conferenceLosses": 4
+    },
+    {
+        "team": "Georgia Tech",
+        "wins": 8,
+        "losses": 1,
+        "conferenceWins": 5,
+        "conferenceLosses": 1
+    },
+    {
+        "team": "Louisville",
+        "wins": 7,
+        "losses": 1,
+        "conferenceWins": 4,
+        "conferenceLosses": 1
+    },
+    {
+        "team": "Boston College",
+        "wins": 1,
+        "losses": 8,
+        "conferenceWins": 0,
+        "conferenceLosses": 5
+    },
+    {
+        "team": "Duke",
+        "wins": 5,
+        "losses": 3,
+        "conferenceWins": 4,
+        "conferenceLosses": 1
+    },
+    {
+        "team": "NC State",
+        "wins": 5,
+        "losses": 4,
+        "conferenceWins": 2,
+        "conferenceLosses": 3
+    },
+    {
+        "team": "North Carolina",
+        "wins": 3,
+        "losses": 5,
+        "conferenceWins": 1,
+        "conferenceLosses": 3
+    },
+    {
+        "team": "Wake Forest",
+        "wins": 5,
+        "losses": 3,
+        "conferenceWins": 2,
+        "conferenceLosses": 3
+    },
+    {
+        "team": "Syracuse",
+        "wins": 3,
+        "losses": 6,
+        "conferenceWins": 1,
+        "conferenceLosses": 5
+    },
+    {
+        "team": "Pittsburgh",
+        "wins": 7,
+        "losses": 2,
+        "conferenceWins": 5,
+        "conferenceLosses": 1
+    },
+    {
+        "team": "Clemson",
+        "wins": 3,
+        "losses": 5,
+        "conferenceWins": 2,
+        "conferenceLosses": 4
+    },
+    {
+        "team": "Virginia",
+        "wins": 8,
+        "losses": 1,
+        "conferenceWins": 5,
+        "conferenceLosses": 0
+    },
+    {
+        "team": "Virginia Tech",
+        "wins": 3,
+        "losses": 6,
+        "conferenceWins": 2,
+        "conferenceLosses": 3
+    },
+    {
+        "team": "Miami",
+        "wins": 6,
+        "losses": 2,
+        "conferenceWins": 2,
+        "conferenceLosses": 2
+    },
+    {
+        "team": "SMU",
+        "wins": 6,
+        "losses": 3,
+        "conferenceWins": 4,
+        "conferenceLosses": 1
+    }
+]
