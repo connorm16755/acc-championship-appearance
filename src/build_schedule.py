@@ -19,7 +19,8 @@ for g in games:
             "week": g["week"],
             "home": g["homeTeam"],
             "away": g["awayTeam"],
-            "conference": g["conferenceGame"]
+            "conference": g["conferenceGame"],
+            "completed": g["completed"]
         })
 
 # Sort by week for readability

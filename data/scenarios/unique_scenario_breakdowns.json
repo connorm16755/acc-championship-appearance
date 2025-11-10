@@ -1,0 +1,4206 @@
+[
+  {
+    "top_teams": [
+      "Georgia Tech",
+      "Virginia"
+    ],
+    "second_teams": [],
+    "count": 498360
+  },
+  {
+    "top_teams": [
+      "Pittsburgh",
+      "Virginia"
+    ],
+    "second_teams": [],
+    "count": 497545
+  },
+  {
+    "top_teams": [
+      "Georgia Tech",
+      "SMU"
+    ],
+    "second_teams": [],
+    "count": 413290
+  },
+  {
+    "top_teams": [
+      "Pittsburgh",
+      "SMU"
+    ],
+    "second_teams": [],
+    "count": 412607
+  },
+  {
+    "top_teams": [
+      "SMU",
+      "Virginia"
+    ],
+    "second_teams": [],
+    "count": 311932
+  },
+  {
+    "top_teams": [
+      "Duke",
+      "Pittsburgh"
+    ],
+    "second_teams": [],
+    "count": 249073
+  },
+  {
+    "top_teams": [
+      "Duke",
+      "Georgia Tech"
+    ],
+    "second_teams": [],
+    "count": 248150
+  },
+  {
+    "top_teams": [
+      "Georgia Tech",
+      "SMU",
+      "Virginia"
+    ],
+    "second_teams": [],
+    "count": 244088
+  },
+  {
+    "top_teams": [
+      "Pittsburgh",
+      "SMU",
+      "Virginia"
+    ],
+    "second_teams": [],
+    "count": 243892
+  },
+  {
+    "top_teams": [
+      "Georgia Tech",
+      "Pittsburgh",
+      "SMU",
+      "Virginia"
+    ],
+    "second_teams": [],
+    "count": 205049
+  },
+  {
+    "top_teams": [
+      "Duke",
+      "SMU"
+    ],
+    "second_teams": [],
+    "count": 156078
+  },
+  {
+    "top_teams": [
+      "Virginia"
+    ],
+    "second_teams": [
+      "Georgia Tech",
+      "Pittsburgh",
+      "SMU"
+    ],
+    "count": 153901
+  },
+  {
+    "top_teams": [
+      "Duke",
+      "Georgia Tech",
+      "Pittsburgh",
+      "SMU",
+      "Virginia"
+    ],
+    "second_teams": [],
+    "count": 153880
+  },
+  {
+    "top_teams": [
+      "SMU"
+    ],
+    "second_teams": [
+      "Georgia Tech",
+      "Pittsburgh",
+      "Virginia"
+    ],
+    "count": 137534
+  },
+  {
+    "top_teams": [
+      "Duke",
+      "Georgia Tech",
+      "SMU"
+    ],
+    "second_teams": [],
+    "count": 121867
+  },
+  {
+    "top_teams": [
+      "Duke",
+      "Pittsburgh",
+      "SMU"
+    ],
+    "second_teams": [],
+    "count": 121754
+  },
+  {
+    "top_teams": [
+      "Georgia Tech"
+    ],
+    "second_teams": [
+      "Pittsburgh",
+      "SMU",
+      "Virginia"
+    ],
+    "count": 117587
+  },
+  {
+    "top_teams": [
+      "Pittsburgh"
+    ],
+    "second_teams": [
+      "Georgia Tech",
+      "SMU",
+      "Virginia"
+    ],
+    "count": 117499
+  },
+  {
+    "top_teams": [
+      "Pittsburgh"
+    ],
+    "second_teams": [
+      "SMU",
+      "Virginia"
+    ],
+    "count": 117032
+  },
+  {
+    "top_teams": [
+      "Duke",
+      "Georgia Tech",
+      "Pittsburgh",
+      "SMU"
+    ],
+    "second_teams": [],
+    "count": 102637
+  },
+  {
+    "top_teams": [
+      "SMU"
+    ],
+    "second_teams": [
+      "Duke",
+      "Georgia Tech",
+      "Pittsburgh",
+      "Virginia"
+    ],
+    "count": 102605
+  },
+  {
+    "top_teams": [
+      "Pittsburgh"
+    ],
+    "second_teams": [
+      "Duke",
+      "Georgia Tech",
+      "SMU",
+      "Virginia"
+    ],
+    "count": 88005
+  },
+  {
+    "top_teams": [
+      "Georgia Tech"
+    ],
+    "second_teams": [
+      "SMU",
+      "Virginia"
+    ],
+    "count": 87912
+  },
+  {
+    "top_teams": [
+      "Georgia Tech"
+    ],
+    "second_teams": [
+      "Duke",
+      "Pittsburgh",
+      "SMU",
+      "Virginia"
+    ],
+    "count": 87710
+  },
+  {
+    "top_teams": [
+      "Pittsburgh"
+    ],
+    "second_teams": [
+      "Duke",
+      "SMU",
+      "Virginia"
+    ],
+    "count": 87463
+  },
+  {
+    "top_teams": [
+      "Georgia Tech",
+      "Louisville",
+      "Pittsburgh",
+      "Virginia"
+    ],
+    "second_teams": [],
+    "count": 68626
+  },
+  {
+    "top_teams": [
+      "Georgia Tech",
+      "Pittsburgh",
+      "Virginia"
+    ],
+    "second_teams": [],
+    "count": 68438
+  },
+  {
+    "top_teams": [
+      "SMU"
+    ],
+    "second_teams": [
+      "Duke",
+      "Georgia Tech",
+      "Pittsburgh"
+    ],
+    "count": 68364
+  },
+  {
+    "top_teams": [
+      "Georgia Tech",
+      "Louisville",
+      "Pittsburgh",
+      "SMU",
+      "Virginia"
+    ],
+    "second_teams": [],
+    "count": 68215
+  },
+  {
+    "top_teams": [
+      "Duke",
+      "Georgia Tech",
+      "SMU",
+      "Virginia"
+    ],
+    "second_teams": [],
+    "count": 66112
+  },
+  {
+    "top_teams": [
+      "Virginia"
+    ],
+    "second_teams": [
+      "Georgia Tech",
+      "SMU"
+    ],
+    "count": 65974
+  },
+  {
+    "top_teams": [
+      "Virginia"
+    ],
+    "second_teams": [
+      "Pittsburgh",
+      "SMU"
+    ],
+    "count": 65932
+  },
+  {
+    "top_teams": [
+      "Duke",
+      "Pittsburgh",
+      "SMU",
+      "Virginia"
+    ],
+    "second_teams": [],
+    "count": 65930
+  },
+  {
+    "top_teams": [
+      "Georgia Tech"
+    ],
+    "second_teams": [
+      "Duke",
+      "SMU",
+      "Virginia"
+    ],
+    "count": 65918
+  },
+  {
+    "top_teams": [
+      "Pittsburgh"
+    ],
+    "second_teams": [
+      "Duke",
+      "SMU"
+    ],
+    "count": 58957
+  },
+  {
+    "top_teams": [
+      "Georgia Tech"
+    ],
+    "second_teams": [
+      "Duke",
+      "Pittsburgh",
+      "SMU"
+    ],
+    "count": 58593
+  },
+  {
+    "top_teams": [
+      "SMU"
+    ],
+    "second_teams": [
+      "Georgia Tech",
+      "Virginia"
+    ],
+    "count": 58462
+  },
+  {
+    "top_teams": [
+      "SMU"
+    ],
+    "second_teams": [
+      "Pittsburgh",
+      "Virginia"
+    ],
+    "count": 58429
+  },
+  {
+    "top_teams": [
+      "Pittsburgh"
+    ],
+    "second_teams": [
+      "Duke",
+      "Georgia Tech",
+      "SMU"
+    ],
+    "count": 58334
+  },
+  {
+    "top_teams": [
+      "Virginia"
+    ],
+    "second_teams": [
+      "Duke",
+      "Georgia Tech",
+      "Pittsburgh",
+      "SMU"
+    ],
+    "count": 51858
+  },
+  {
+    "top_teams": [
+      "Duke",
+      "Georgia Tech",
+      "Louisville",
+      "Pittsburgh",
+      "SMU",
+      "Virginia"
+    ],
+    "second_teams": [],
+    "count": 51452
+  },
+  {
+    "top_teams": [
+      "Georgia Tech",
+      "Pittsburgh",
+      "SMU"
+    ],
+    "second_teams": [],
+    "count": 51435
+  },
+  {
+    "top_teams": [
+      "Duke"
+    ],
+    "second_teams": [
+      "Georgia Tech",
+      "Pittsburgh",
+      "SMU",
+      "Virginia"
+    ],
+    "count": 51375
+  },
+  {
+    "top_teams": [
+      "Duke"
+    ],
+    "second_teams": [
+      "Georgia Tech",
+      "Pittsburgh",
+      "SMU"
+    ],
+    "count": 51371
+  },
+  {
+    "top_teams": [
+      "Duke",
+      "Georgia Tech",
+      "Louisville",
+      "Pittsburgh",
+      "Virginia"
+    ],
+    "second_teams": [],
+    "count": 51329
+  },
+  {
+    "top_teams": [
+      "Virginia"
+    ],
+    "second_teams": [
+      "Georgia Tech",
+      "Pittsburgh"
+    ],
+    "count": 51282
+  },
+  {
+    "top_teams": [
+      "Duke",
+      "Georgia Tech",
+      "Pittsburgh",
+      "Virginia"
+    ],
+    "second_teams": [],
+    "count": 51238
+  },
+  {
+    "top_teams": [
+      "Virginia"
+    ],
+    "second_teams": [
+      "Georgia Tech",
+      "Louisville",
+      "Pittsburgh"
+    ],
+    "count": 51131
+  },
+  {
+    "top_teams": [
+      "Virginia"
+    ],
+    "second_teams": [
+      "Georgia Tech",
+      "Louisville",
+      "Pittsburgh",
+      "SMU"
+    ],
+    "count": 50967
+  },
+  {
+    "top_teams": [
+      "SMU"
+    ],
+    "second_teams": [
+      "Duke",
+      "Georgia Tech",
+      "Virginia"
+    ],
+    "count": 44238
+  },
+  {
+    "top_teams": [
+      "Georgia Tech"
+    ],
+    "second_teams": [
+      "Duke",
+      "SMU"
+    ],
+    "count": 43844
+  },
+  {
+    "top_teams": [
+      "SMU"
+    ],
+    "second_teams": [
+      "Duke",
+      "Pittsburgh",
+      "Virginia"
+    ],
+    "count": 43737
+  },
+  {
+    "top_teams": [
+      "Pittsburgh"
+    ],
+    "second_teams": [
+      "Georgia Tech",
+      "Louisville",
+      "SMU",
+      "Virginia"
+    ],
+    "count": 39274
+  },
+  {
+    "top_teams": [
+      "Georgia Tech"
+    ],
+    "second_teams": [
+      "Louisville",
+      "Pittsburgh",
+      "Virginia"
+    ],
+    "count": 39241
+  },
+  {
+    "top_teams": [
+      "Pittsburgh"
+    ],
+    "second_teams": [
+      "Louisville",
+      "SMU",
+      "Virginia"
+    ],
+    "count": 39225
+  },
+  {
+    "top_teams": [
+      "Georgia Tech"
+    ],
+    "second_teams": [
+      "Louisville",
+      "Pittsburgh",
+      "SMU",
+      "Virginia"
+    ],
+    "count": 39205
+  },
+  {
+    "top_teams": [
+      "Pittsburgh"
+    ],
+    "second_teams": [
+      "Georgia Tech",
+      "Virginia"
+    ],
+    "count": 39151
+  },
+  {
+    "top_teams": [
+      "Pittsburgh"
+    ],
+    "second_teams": [
+      "Louisville",
+      "Virginia"
+    ],
+    "count": 39150
+  },
+  {
+    "top_teams": [
+      "Pittsburgh"
+    ],
+    "second_teams": [
+      "Georgia Tech",
+      "Louisville",
+      "Virginia"
+    ],
+    "count": 39029
+  },
+  {
+    "top_teams": [
+      "Georgia Tech"
+    ],
+    "second_teams": [
+      "Pittsburgh",
+      "Virginia"
+    ],
+    "count": 38992
+  },
+  {
+    "top_teams": [
+      "Pittsburgh"
+    ],
+    "second_teams": [
+      "Virginia"
+    ],
+    "count": 38928
+  },
+  {
+    "top_teams": [
+      "Duke",
+      "Georgia Tech",
+      "Louisville",
+      "Pittsburgh",
+      "SMU"
+    ],
+    "second_teams": [],
+    "count": 34338
+  },
+  {
+    "top_teams": [
+      "Duke",
+      "Georgia Tech",
+      "Louisville",
+      "Pittsburgh"
+    ],
+    "second_teams": [],
+    "count": 34140
+  },
+  {
+    "top_teams": [
+      "SMU"
+    ],
+    "second_teams": [
+      "Georgia Tech",
+      "Pittsburgh"
+    ],
+    "count": 34071
+  },
+  {
+    "top_teams": [
+      "Duke",
+      "Georgia Tech",
+      "Pittsburgh"
+    ],
+    "second_teams": [],
+    "count": 33815
+  },
+  {
+    "top_teams": [
+      "Georgia Tech"
+    ],
+    "second_teams": [
+      "Louisville",
+      "SMU",
+      "Virginia"
+    ],
+    "count": 29643
+  },
+  {
+    "top_teams": [
+      "Pittsburgh"
+    ],
+    "second_teams": [
+      "Duke",
+      "Georgia Tech",
+      "Louisville",
+      "SMU",
+      "Virginia"
+    ],
+    "count": 29642
+  },
+  {
+    "top_teams": [
+      "Georgia Tech"
+    ],
+    "second_teams": [
+      "Louisville",
+      "Virginia"
+    ],
+    "count": 29629
+  },
+  {
+    "top_teams": [
+      "Pittsburgh"
+    ],
+    "second_teams": [
+      "Duke",
+      "Georgia Tech",
+      "Virginia"
+    ],
+    "count": 29591
+  },
+  {
+    "top_teams": [
+      "Louisville",
+      "Pittsburgh",
+      "SMU",
+      "Virginia"
+    ],
+    "second_teams": [],
+    "count": 29527
+  },
+  {
+    "top_teams": [
+      "Georgia Tech"
+    ],
+    "second_teams": [
+      "Duke",
+      "Louisville",
+      "Pittsburgh",
+      "SMU",
+      "Virginia"
+    ],
+    "count": 29467
+  },
+  {
+    "top_teams": [
+      "Georgia Tech",
+      "Miami",
+      "SMU",
+      "Virginia"
+    ],
+    "second_teams": [],
+    "count": 29414
+  },
+  {
+    "top_teams": [
+      "Pittsburgh"
+    ],
+    "second_teams": [
+      "Duke",
+      "Louisville",
+      "SMU",
+      "Virginia"
+    ],
+    "count": 29398
+  },
+  {
+    "top_teams": [
+      "Georgia Tech"
+    ],
+    "second_teams": [
+      "Duke",
+      "Pittsburgh",
+      "Virginia"
+    ],
+    "count": 29396
+  },
+  {
+    "top_teams": [
+      "Georgia Tech"
+    ],
+    "second_teams": [
+      "Pittsburgh",
+      "SMU"
+    ],
+    "count": 29383
+  },
+  {
+    "top_teams": [
+      "Pittsburgh"
+    ],
+    "second_teams": [
+      "SMU"
+    ],
+    "count": 29370
+  },
+  {
+    "top_teams": [
+      "Georgia Tech",
+      "Miami",
+      "Pittsburgh",
+      "SMU",
+      "Virginia"
+    ],
+    "second_teams": [],
+    "count": 29361
+  },
+  {
+    "top_teams": [
+      "Georgia Tech",
+      "Louisville",
+      "Virginia"
+    ],
+    "second_teams": [],
+    "count": 29309
+  },
+  {
+    "top_teams": [
+      "Pittsburgh"
+    ],
+    "second_teams": [
+      "Duke",
+      "Georgia Tech",
+      "Louisville",
+      "Virginia"
+    ],
+    "count": 29289
+  },
+  {
+    "top_teams": [
+      "Louisville",
+      "Pittsburgh",
+      "Virginia"
+    ],
+    "second_teams": [],
+    "count": 29276
+  },
+  {
+    "top_teams": [
+      "Georgia Tech",
+      "Louisville",
+      "SMU",
+      "Virginia"
+    ],
+    "second_teams": [],
+    "count": 29252
+  },
+  {
+    "top_teams": [
+      "Georgia Tech"
+    ],
+    "second_teams": [
+      "Miami",
+      "SMU",
+      "Virginia"
+    ],
+    "count": 29233
+  },
+  {
+    "top_teams": [
+      "Pittsburgh"
+    ],
+    "second_teams": [
+      "Georgia Tech",
+      "SMU"
+    ],
+    "count": 29209
+  },
+  {
+    "top_teams": [
+      "Georgia Tech"
+    ],
+    "second_teams": [
+      "Virginia"
+    ],
+    "count": 29185
+  },
+  {
+    "top_teams": [
+      "Pittsburgh"
+    ],
+    "second_teams": [
+      "Duke",
+      "Virginia"
+    ],
+    "count": 29177
+  },
+  {
+    "top_teams": [
+      "SMU"
+    ],
+    "second_teams": [
+      "Duke",
+      "Pittsburgh"
+    ],
+    "count": 29135
+  },
+  {
+    "top_teams": [
+      "Miami",
+      "Pittsburgh",
+      "SMU",
+      "Virginia"
+    ],
+    "second_teams": [],
+    "count": 29132
+  },
+  {
+    "top_teams": [
+      "SMU"
+    ],
+    "second_teams": [
+      "Duke",
+      "Georgia Tech"
+    ],
+    "count": 29127
+  },
+  {
+    "top_teams": [
+      "Georgia Tech"
+    ],
+    "second_teams": [
+      "Duke",
+      "Louisville",
+      "Pittsburgh",
+      "Virginia"
+    ],
+    "count": 29109
+  },
+  {
+    "top_teams": [
+      "Pittsburgh"
+    ],
+    "second_teams": [
+      "Duke",
+      "Louisville",
+      "Virginia"
+    ],
+    "count": 29061
+  },
+  {
+    "top_teams": [
+      "Virginia"
+    ],
+    "second_teams": [
+      "Duke",
+      "Georgia Tech",
+      "SMU"
+    ],
+    "count": 22400
+  },
+  {
+    "top_teams": [
+      "Duke",
+      "Louisville",
+      "Pittsburgh",
+      "Virginia"
+    ],
+    "second_teams": [],
+    "count": 22373
+  },
+  {
+    "top_teams": [
+      "Duke"
+    ],
+    "second_teams": [
+      "Georgia Tech",
+      "SMU"
+    ],
+    "count": 22161
+  },
+  {
+    "top_teams": [
+      "Virginia"
+    ],
+    "second_teams": [
+      "Georgia Tech",
+      "Louisville",
+      "SMU"
+    ],
+    "count": 22152
+  },
+  {
+    "top_teams": [
+      "Georgia Tech"
+    ],
+    "second_teams": [
+      "SMU"
+    ],
+    "count": 22145
+  },
+  {
+    "top_teams": [
+      "Virginia"
+    ],
+    "second_teams": [
+      "Miami",
+      "Pittsburgh",
+      "SMU"
+    ],
+    "count": 22142
+  },
+  {
+    "top_teams": [
+      "Virginia"
+    ],
+    "second_teams": [
+      "Louisville",
+      "Pittsburgh"
+    ],
+    "count": 22120
+  },
+  {
+    "top_teams": [
+      "Virginia"
+    ],
+    "second_teams": [
+      "Georgia Tech",
+      "Louisville"
+    ],
+    "count": 22117
+  },
+  {
+    "top_teams": [
+      "Duke"
+    ],
+    "second_teams": [
+      "Pittsburgh",
+      "SMU",
+      "Virginia"
+    ],
+    "count": 22071
+  },
+  {
+    "top_teams": [
+      "Virginia"
+    ],
+    "second_teams": [
+      "Duke",
+      "Pittsburgh",
+      "SMU"
+    ],
+    "count": 22069
+  },
+  {
+    "top_teams": [
+      "Virginia"
+    ],
+    "second_teams": [
+      "Georgia Tech"
+    ],
+    "count": 22042
+  },
+  {
+    "top_teams": [
+      "Georgia Tech"
+    ],
+    "second_teams": [
+      "Duke",
+      "Virginia"
+    ],
+    "count": 22034
+  },
+  {
+    "top_teams": [
+      "Georgia Tech"
+    ],
+    "second_teams": [
+      "Duke",
+      "Louisville",
+      "SMU",
+      "Virginia"
+    ],
+    "count": 22020
+  },
+  {
+    "top_teams": [
+      "Duke",
+      "Georgia Tech",
+      "Miami",
+      "SMU",
+      "Virginia"
+    ],
+    "second_teams": [],
+    "count": 22020
+  },
+  {
+    "top_teams": [
+      "Georgia Tech"
+    ],
+    "second_teams": [
+      "Duke",
+      "Miami",
+      "SMU",
+      "Virginia"
+    ],
+    "count": 21990
+  },
+  {
+    "top_teams": [
+      "Duke"
+    ],
+    "second_teams": [
+      "Pittsburgh",
+      "SMU"
+    ],
+    "count": 21957
+  },
+  {
+    "top_teams": [
+      "Duke",
+      "Georgia Tech",
+      "Louisville",
+      "Virginia"
+    ],
+    "second_teams": [],
+    "count": 21954
+  },
+  {
+    "top_teams": [
+      "Duke",
+      "Louisville",
+      "Pittsburgh",
+      "SMU",
+      "Virginia"
+    ],
+    "second_teams": [],
+    "count": 21930
+  },
+  {
+    "top_teams": [
+      "Georgia Tech"
+    ],
+    "second_teams": [
+      "Duke",
+      "Louisville",
+      "Virginia"
+    ],
+    "count": 21922
+  },
+  {
+    "top_teams": [
+      "Duke",
+      "Georgia Tech",
+      "Louisville",
+      "SMU",
+      "Virginia"
+    ],
+    "second_teams": [],
+    "count": 21910
+  },
+  {
+    "top_teams": [
+      "Virginia"
+    ],
+    "second_teams": [
+      "Georgia Tech",
+      "Miami",
+      "Pittsburgh",
+      "SMU"
+    ],
+    "count": 21900
+  },
+  {
+    "top_teams": [
+      "Virginia"
+    ],
+    "second_teams": [
+      "Pittsburgh"
+    ],
+    "count": 21885
+  },
+  {
+    "top_teams": [
+      "Duke",
+      "Miami",
+      "Pittsburgh",
+      "SMU",
+      "Virginia"
+    ],
+    "second_teams": [],
+    "count": 21883
+  },
+  {
+    "top_teams": [
+      "Virginia"
+    ],
+    "second_teams": [
+      "Louisville",
+      "Pittsburgh",
+      "SMU"
+    ],
+    "count": 21880
+  },
+  {
+    "top_teams": [
+      "Duke",
+      "Georgia Tech",
+      "Miami",
+      "Pittsburgh",
+      "SMU",
+      "Virginia"
+    ],
+    "second_teams": [],
+    "count": 21873
+  },
+  {
+    "top_teams": [
+      "Duke",
+      "Pittsburgh",
+      "Virginia"
+    ],
+    "second_teams": [],
+    "count": 21863
+  },
+  {
+    "top_teams": [
+      "Virginia"
+    ],
+    "second_teams": [
+      "Georgia Tech",
+      "Miami",
+      "SMU"
+    ],
+    "count": 21845
+  },
+  {
+    "top_teams": [
+      "Duke"
+    ],
+    "second_teams": [
+      "Georgia Tech",
+      "SMU",
+      "Virginia"
+    ],
+    "count": 21827
+  },
+  {
+    "top_teams": [
+      "Duke",
+      "Georgia Tech",
+      "Virginia"
+    ],
+    "second_teams": [],
+    "count": 21811
+  },
+  {
+    "top_teams": [
+      "Pittsburgh"
+    ],
+    "second_teams": [
+      "Duke",
+      "Georgia Tech"
+    ],
+    "count": 19737
+  },
+  {
+    "top_teams": [
+      "SMU"
+    ],
+    "second_teams": [
+      "Georgia Tech",
+      "Miami",
+      "Virginia"
+    ],
+    "count": 19574
+  },
+  {
+    "top_teams": [
+      "Pittsburgh"
+    ],
+    "second_teams": [
+      "Duke"
+    ],
+    "count": 19532
+  },
+  {
+    "top_teams": [
+      "SMU"
+    ],
+    "second_teams": [
+      "Georgia Tech",
+      "Miami",
+      "Pittsburgh",
+      "Virginia"
+    ],
+    "count": 19509
+  },
+  {
+    "top_teams": [
+      "Georgia Tech"
+    ],
+    "second_teams": [
+      "Duke",
+      "Pittsburgh"
+    ],
+    "count": 19495
+  },
+  {
+    "top_teams": [
+      "Pittsburgh"
+    ],
+    "second_teams": [
+      "Duke",
+      "Georgia Tech",
+      "Louisville",
+      "SMU"
+    ],
+    "count": 19485
+  },
+  {
+    "top_teams": [
+      "Georgia Tech"
+    ],
+    "second_teams": [
+      "Duke",
+      "Louisville",
+      "Pittsburgh"
+    ],
+    "count": 19474
+  },
+  {
+    "top_teams": [
+      "Pittsburgh"
+    ],
+    "second_teams": [
+      "Duke",
+      "Louisville",
+      "SMU"
+    ],
+    "count": 19464
+  },
+  {
+    "top_teams": [
+      "Georgia Tech"
+    ],
+    "second_teams": [
+      "Duke",
+      "Louisville",
+      "Pittsburgh",
+      "SMU"
+    ],
+    "count": 19439
+  },
+  {
+    "top_teams": [
+      "SMU"
+    ],
+    "second_teams": [
+      "Miami",
+      "Pittsburgh",
+      "Virginia"
+    ],
+    "count": 19423
+  },
+  {
+    "top_teams": [
+      "Pittsburgh"
+    ],
+    "second_teams": [
+      "Duke",
+      "Louisville"
+    ],
+    "count": 19396
+  },
+  {
+    "top_teams": [
+      "Pittsburgh"
+    ],
+    "second_teams": [
+      "Duke",
+      "Georgia Tech",
+      "Louisville"
+    ],
+    "count": 19176
+  },
+  {
+    "top_teams": [
+      "Duke"
+    ],
+    "second_teams": [
+      "Georgia Tech",
+      "Louisville",
+      "Pittsburgh",
+      "SMU"
+    ],
+    "count": 17360
+  },
+  {
+    "top_teams": [
+      "Virginia"
+    ],
+    "second_teams": [
+      "Duke",
+      "Georgia Tech",
+      "Pittsburgh"
+    ],
+    "count": 17350
+  },
+  {
+    "top_teams": [
+      "Virginia"
+    ],
+    "second_teams": [
+      "Duke",
+      "Georgia Tech",
+      "Louisville",
+      "Pittsburgh"
+    ],
+    "count": 17154
+  },
+  {
+    "top_teams": [
+      "Duke"
+    ],
+    "second_teams": [
+      "Georgia Tech",
+      "Louisville",
+      "Pittsburgh",
+      "Virginia"
+    ],
+    "count": 17132
+  },
+  {
+    "top_teams": [
+      "Duke"
+    ],
+    "second_teams": [
+      "Georgia Tech",
+      "Pittsburgh"
+    ],
+    "count": 17089
+  },
+  {
+    "top_teams": [
+      "Virginia"
+    ],
+    "second_teams": [
+      "Duke",
+      "Georgia Tech",
+      "Louisville",
+      "Pittsburgh",
+      "SMU"
+    ],
+    "count": 17088
+  },
+  {
+    "top_teams": [
+      "Duke"
+    ],
+    "second_teams": [
+      "Georgia Tech",
+      "Louisville",
+      "Pittsburgh"
+    ],
+    "count": 17075
+  },
+  {
+    "top_teams": [
+      "Duke"
+    ],
+    "second_teams": [
+      "Georgia Tech",
+      "Louisville",
+      "Pittsburgh",
+      "SMU",
+      "Virginia"
+    ],
+    "count": 17065
+  },
+  {
+    "top_teams": [
+      "Duke"
+    ],
+    "second_teams": [
+      "Georgia Tech",
+      "Pittsburgh",
+      "Virginia"
+    ],
+    "count": 17064
+  },
+  {
+    "top_teams": [
+      "Georgia Tech",
+      "Louisville",
+      "Pittsburgh"
+    ],
+    "second_teams": [],
+    "count": 17012
+  },
+  {
+    "top_teams": [
+      "Georgia Tech",
+      "Louisville",
+      "Pittsburgh",
+      "SMU"
+    ],
+    "second_teams": [],
+    "count": 16962
+  },
+  {
+    "top_teams": [
+      "Georgia Tech",
+      "Pittsburgh"
+    ],
+    "second_teams": [],
+    "count": 16873
+  },
+  {
+    "top_teams": [
+      "Duke",
+      "Georgia Tech",
+      "Louisville"
+    ],
+    "second_teams": [],
+    "count": 14908
+  },
+  {
+    "top_teams": [
+      "SMU"
+    ],
+    "second_teams": [
+      "Duke",
+      "Georgia Tech",
+      "Miami",
+      "Pittsburgh",
+      "Virginia"
+    ],
+    "count": 14869
+  },
+  {
+    "top_teams": [
+      "Duke",
+      "Georgia Tech",
+      "Miami",
+      "SMU"
+    ],
+    "second_teams": [],
+    "count": 14742
+  },
+  {
+    "top_teams": [
+      "SMU"
+    ],
+    "second_teams": [
+      "Duke",
+      "Georgia Tech",
+      "Miami",
+      "Virginia"
+    ],
+    "count": 14703
+  },
+  {
+    "top_teams": [
+      "Duke",
+      "Georgia Tech",
+      "Miami",
+      "Pittsburgh",
+      "SMU"
+    ],
+    "second_teams": [],
+    "count": 14701
+  },
+  {
+    "top_teams": [
+      "Georgia Tech"
+    ],
+    "second_teams": [
+      "Duke",
+      "Miami",
+      "SMU"
+    ],
+    "count": 14656
+  },
+  {
+    "top_teams": [
+      "Duke",
+      "Miami",
+      "Pittsburgh",
+      "SMU"
+    ],
+    "second_teams": [],
+    "count": 14633
+  },
+  {
+    "top_teams": [
+      "SMU"
+    ],
+    "second_teams": [
+      "Georgia Tech"
+    ],
+    "count": 14617
+  },
+  {
+    "top_teams": [
+      "Georgia Tech"
+    ],
+    "second_teams": [
+      "Duke"
+    ],
+    "count": 14579
+  },
+  {
+    "top_teams": [
+      "Georgia Tech"
+    ],
+    "second_teams": [
+      "Duke",
+      "Louisville",
+      "SMU"
+    ],
+    "count": 14560
+  },
+  {
+    "top_teams": [
+      "Duke",
+      "Louisville",
+      "Pittsburgh",
+      "SMU"
+    ],
+    "second_teams": [],
+    "count": 14532
+  },
+  {
+    "top_teams": [
+      "Duke",
+      "Georgia Tech",
+      "Louisville",
+      "SMU"
+    ],
+    "second_teams": [],
+    "count": 14523
+  },
+  {
+    "top_teams": [
+      "SMU"
+    ],
+    "second_teams": [
+      "Duke",
+      "Miami",
+      "Pittsburgh",
+      "Virginia"
+    ],
+    "count": 14453
+  },
+  {
+    "top_teams": [
+      "Georgia Tech"
+    ],
+    "second_teams": [
+      "Duke",
+      "Louisville"
+    ],
+    "count": 14435
+  },
+  {
+    "top_teams": [
+      "SMU"
+    ],
+    "second_teams": [
+      "Pittsburgh"
+    ],
+    "count": 14432
+  },
+  {
+    "top_teams": [
+      "Duke",
+      "Louisville",
+      "Pittsburgh"
+    ],
+    "second_teams": [],
+    "count": 14331
+  },
+  {
+    "top_teams": [
+      "Miami",
+      "Pittsburgh",
+      "Virginia"
+    ],
+    "second_teams": [],
+    "count": 9883
+  },
+  {
+    "top_teams": [
+      "Georgia Tech",
+      "Louisville",
+      "Miami",
+      "Pittsburgh",
+      "Virginia"
+    ],
+    "second_teams": [],
+    "count": 9870
+  },
+  {
+    "top_teams": [
+      "Georgia Tech"
+    ],
+    "second_teams": [
+      "Louisville",
+      "Miami",
+      "Virginia"
+    ],
+    "count": 9868
+  },
+  {
+    "top_teams": [
+      "Louisville",
+      "Miami",
+      "Pittsburgh",
+      "Virginia"
+    ],
+    "second_teams": [],
+    "count": 9862
+  },
+  {
+    "top_teams": [
+      "Georgia Tech"
+    ],
+    "second_teams": [
+      "Louisville",
+      "Pittsburgh"
+    ],
+    "count": 9857
+  },
+  {
+    "top_teams": [
+      "Georgia Tech"
+    ],
+    "second_teams": [
+      "Louisville",
+      "Miami",
+      "SMU",
+      "Virginia"
+    ],
+    "count": 9853
+  },
+  {
+    "top_teams": [
+      "Pittsburgh"
+    ],
+    "second_teams": [
+      "Georgia Tech",
+      "Louisville",
+      "SMU"
+    ],
+    "count": 9851
+  },
+  {
+    "top_teams": [
+      "Pittsburgh"
+    ],
+    "second_teams": [
+      "Louisville",
+      "SMU"
+    ],
+    "count": 9839
+  },
+  {
+    "top_teams": [
+      "SMU"
+    ],
+    "second_teams": [
+      "Duke",
+      "Miami",
+      "Pittsburgh"
+    ],
+    "count": 9831
+  },
+  {
+    "top_teams": [
+      "SMU"
+    ],
+    "second_teams": [
+      "Duke",
+      "Georgia Tech",
+      "Miami",
+      "Pittsburgh"
+    ],
+    "count": 9826
+  },
+  {
+    "top_teams": [
+      "Georgia Tech",
+      "Miami",
+      "Virginia"
+    ],
+    "second_teams": [],
+    "count": 9805
+  },
+  {
+    "top_teams": [
+      "Georgia Tech",
+      "Louisville",
+      "Miami",
+      "SMU",
+      "Virginia"
+    ],
+    "second_teams": [],
+    "count": 9782
+  },
+  {
+    "top_teams": [
+      "Georgia Tech",
+      "Louisville",
+      "Miami",
+      "Virginia"
+    ],
+    "second_teams": [],
+    "count": 9758
+  },
+  {
+    "top_teams": [
+      "Georgia Tech"
+    ],
+    "second_teams": [
+      "Miami",
+      "Virginia"
+    ],
+    "count": 9749
+  },
+  {
+    "top_teams": [
+      "Georgia Tech"
+    ],
+    "second_teams": [
+      "Pittsburgh"
+    ],
+    "count": 9735
+  },
+  {
+    "top_teams": [
+      "Georgia Tech",
+      "Louisville",
+      "Miami",
+      "Pittsburgh",
+      "SMU",
+      "Virginia"
+    ],
+    "second_teams": [],
+    "count": 9733
+  },
+  {
+    "top_teams": [
+      "Pittsburgh"
+    ],
+    "second_teams": [
+      "Georgia Tech",
+      "Louisville"
+    ],
+    "count": 9721
+  },
+  {
+    "top_teams": [
+      "Georgia Tech",
+      "Miami",
+      "Pittsburgh",
+      "Virginia"
+    ],
+    "second_teams": [],
+    "count": 9718
+  },
+  {
+    "top_teams": [
+      "Pittsburgh"
+    ],
+    "second_teams": [
+      "Louisville"
+    ],
+    "count": 9706
+  },
+  {
+    "top_teams": [
+      "Pittsburgh"
+    ],
+    "second_teams": [
+      "Georgia Tech"
+    ],
+    "count": 9695
+  },
+  {
+    "top_teams": [
+      "Georgia Tech"
+    ],
+    "second_teams": [
+      "Louisville",
+      "Pittsburgh",
+      "SMU"
+    ],
+    "count": 9694
+  },
+  {
+    "top_teams": [
+      "Louisville",
+      "Miami",
+      "Pittsburgh",
+      "SMU",
+      "Virginia"
+    ],
+    "second_teams": [],
+    "count": 9682
+  },
+  {
+    "top_teams": [
+      "SMU"
+    ],
+    "second_teams": [
+      "Duke",
+      "Georgia Tech",
+      "Miami"
+    ],
+    "count": 9642
+  },
+  {
+    "top_teams": [
+      "Duke",
+      "Louisville",
+      "Miami",
+      "Pittsburgh",
+      "Virginia"
+    ],
+    "second_teams": [],
+    "count": 7548
+  },
+  {
+    "top_teams": [
+      "Duke",
+      "Miami",
+      "Pittsburgh",
+      "Virginia"
+    ],
+    "second_teams": [],
+    "count": 7451
+  },
+  {
+    "top_teams": [
+      "Virginia"
+    ],
+    "second_teams": [
+      "Georgia Tech",
+      "Louisville",
+      "Miami",
+      "Pittsburgh",
+      "SMU"
+    ],
+    "count": 7448
+  },
+  {
+    "top_teams": [
+      "Louisville",
+      "Pittsburgh"
+    ],
+    "second_teams": [],
+    "count": 7433
+  },
+  {
+    "top_teams": [
+      "Duke",
+      "Georgia Tech",
+      "Louisville",
+      "Miami",
+      "Virginia"
+    ],
+    "second_teams": [],
+    "count": 7430
+  },
+  {
+    "top_teams": [
+      "Duke"
+    ],
+    "second_teams": [
+      "Georgia Tech",
+      "Louisville",
+      "SMU"
+    ],
+    "count": 7428
+  },
+  {
+    "top_teams": [
+      "Virginia"
+    ],
+    "second_teams": [
+      "Duke",
+      "Georgia Tech"
+    ],
+    "count": 7425
+  },
+  {
+    "top_teams": [
+      "Virginia"
+    ],
+    "second_teams": [
+      "Georgia Tech",
+      "Louisville",
+      "Miami",
+      "Pittsburgh"
+    ],
+    "count": 7415
+  },
+  {
+    "top_teams": [
+      "Duke",
+      "Georgia Tech",
+      "Miami",
+      "Pittsburgh",
+      "Virginia"
+    ],
+    "second_teams": [],
+    "count": 7406
+  },
+  {
+    "top_teams": [
+      "Duke",
+      "Georgia Tech",
+      "Miami",
+      "Virginia"
+    ],
+    "second_teams": [],
+    "count": 7405
+  },
+  {
+    "top_teams": [
+      "Virginia"
+    ],
+    "second_teams": [
+      "Georgia Tech",
+      "Miami"
+    ],
+    "count": 7402
+  },
+  {
+    "top_teams": [
+      "Duke"
+    ],
+    "second_teams": [
+      "Georgia Tech"
+    ],
+    "count": 7397
+  },
+  {
+    "top_teams": [
+      "Georgia Tech"
+    ],
+    "second_teams": [
+      "Duke",
+      "Miami",
+      "Virginia"
+    ],
+    "count": 7383
+  },
+  {
+    "top_teams": [
+      "Duke"
+    ],
+    "second_teams": [
+      "Louisville",
+      "Pittsburgh",
+      "SMU",
+      "Virginia"
+    ],
+    "count": 7361
+  },
+  {
+    "top_teams": [
+      "Duke"
+    ],
+    "second_teams": [
+      "Georgia Tech",
+      "Miami",
+      "Pittsburgh",
+      "SMU",
+      "Virginia"
+    ],
+    "count": 7359
+  },
+  {
+    "top_teams": [
+      "Virginia"
+    ],
+    "second_teams": [
+      "Duke",
+      "Louisville",
+      "Pittsburgh",
+      "SMU"
+    ],
+    "count": 7351
+  },
+  {
+    "top_teams": [
+      "Duke"
+    ],
+    "second_teams": [
+      "Georgia Tech",
+      "Louisville",
+      "Virginia"
+    ],
+    "count": 7341
+  },
+  {
+    "top_teams": [
+      "Georgia Tech",
+      "Louisville"
+    ],
+    "second_teams": [],
+    "count": 7333
+  },
+  {
+    "top_teams": [
+      "Duke"
+    ],
+    "second_teams": [
+      "Miami",
+      "Pittsburgh",
+      "SMU"
+    ],
+    "count": 7333
+  },
+  {
+    "top_teams": [
+      "Virginia"
+    ],
+    "second_teams": [
+      "Georgia Tech",
+      "Miami",
+      "Pittsburgh"
+    ],
+    "count": 7323
+  },
+  {
+    "top_teams": [
+      "Virginia"
+    ],
+    "second_teams": [
+      "Duke",
+      "Georgia Tech",
+      "Louisville",
+      "SMU"
+    ],
+    "count": 7321
+  },
+  {
+    "top_teams": [
+      "Virginia"
+    ],
+    "second_teams": [
+      "Duke",
+      "Georgia Tech",
+      "Miami",
+      "SMU"
+    ],
+    "count": 7320
+  },
+  {
+    "top_teams": [
+      "Virginia"
+    ],
+    "second_teams": [
+      "Miami",
+      "Pittsburgh"
+    ],
+    "count": 7319
+  },
+  {
+    "top_teams": [
+      "Georgia Tech"
+    ],
+    "second_teams": [
+      "Louisville"
+    ],
+    "count": 7315
+  },
+  {
+    "top_teams": [
+      "Georgia Tech",
+      "Miami",
+      "SMU"
+    ],
+    "second_teams": [],
+    "count": 7314
+  },
+  {
+    "top_teams": [
+      "Georgia Tech"
+    ],
+    "second_teams": [
+      "Miami",
+      "SMU"
+    ],
+    "count": 7310
+  },
+  {
+    "top_teams": [
+      "Virginia"
+    ],
+    "second_teams": [
+      "Louisville",
+      "Miami",
+      "Pittsburgh"
+    ],
+    "count": 7308
+  },
+  {
+    "top_teams": [
+      "Duke"
+    ],
+    "second_teams": [
+      "Georgia Tech",
+      "Miami",
+      "SMU",
+      "Virginia"
+    ],
+    "count": 7306
+  },
+  {
+    "top_teams": [
+      "Duke"
+    ],
+    "second_teams": [
+      "Georgia Tech",
+      "Louisville",
+      "SMU",
+      "Virginia"
+    ],
+    "count": 7305
+  },
+  {
+    "top_teams": [
+      "Virginia"
+    ],
+    "second_teams": [
+      "Duke",
+      "Louisville",
+      "Pittsburgh"
+    ],
+    "count": 7304
+  },
+  {
+    "top_teams": [
+      "Duke",
+      "Louisville",
+      "Miami",
+      "Pittsburgh",
+      "SMU",
+      "Virginia"
+    ],
+    "second_teams": [],
+    "count": 7303
+  },
+  {
+    "top_teams": [
+      "Virginia"
+    ],
+    "second_teams": [
+      "Duke",
+      "Georgia Tech",
+      "Louisville"
+    ],
+    "count": 7301
+  },
+  {
+    "top_teams": [
+      "Duke"
+    ],
+    "second_teams": [
+      "Pittsburgh",
+      "Virginia"
+    ],
+    "count": 7301
+  },
+  {
+    "top_teams": [
+      "Virginia"
+    ],
+    "second_teams": [
+      "Duke",
+      "Miami",
+      "Pittsburgh",
+      "SMU"
+    ],
+    "count": 7300
+  },
+  {
+    "top_teams": [
+      "Duke",
+      "Georgia Tech",
+      "Louisville",
+      "Miami",
+      "Pittsburgh",
+      "Virginia"
+    ],
+    "second_teams": [],
+    "count": 7295
+  },
+  {
+    "top_teams": [
+      "Virginia"
+    ],
+    "second_teams": [
+      "Duke",
+      "Georgia Tech",
+      "Miami",
+      "Pittsburgh",
+      "SMU"
+    ],
+    "count": 7294
+  },
+  {
+    "top_teams": [
+      "Duke",
+      "Georgia Tech",
+      "Louisville",
+      "Miami",
+      "Pittsburgh",
+      "SMU",
+      "Virginia"
+    ],
+    "second_teams": [],
+    "count": 7290
+  },
+  {
+    "top_teams": [
+      "Virginia"
+    ],
+    "second_teams": [
+      "Louisville",
+      "Miami",
+      "Pittsburgh",
+      "SMU"
+    ],
+    "count": 7289
+  },
+  {
+    "top_teams": [
+      "Georgia Tech",
+      "Louisville",
+      "SMU"
+    ],
+    "second_teams": [],
+    "count": 7279
+  },
+  {
+    "top_teams": [
+      "Duke"
+    ],
+    "second_teams": [
+      "Georgia Tech",
+      "Louisville"
+    ],
+    "count": 7277
+  },
+  {
+    "top_teams": [
+      "Duke"
+    ],
+    "second_teams": [
+      "Louisville",
+      "Pittsburgh"
+    ],
+    "count": 7274
+  },
+  {
+    "top_teams": [
+      "Duke"
+    ],
+    "second_teams": [
+      "Georgia Tech",
+      "Miami",
+      "Pittsburgh",
+      "SMU"
+    ],
+    "count": 7273
+  },
+  {
+    "top_teams": [
+      "Duke"
+    ],
+    "second_teams": [
+      "Georgia Tech",
+      "Miami",
+      "SMU"
+    ],
+    "count": 7270
+  },
+  {
+    "top_teams": [
+      "Virginia"
+    ],
+    "second_teams": [
+      "Duke",
+      "Pittsburgh"
+    ],
+    "count": 7267
+  },
+  {
+    "top_teams": [
+      "Duke"
+    ],
+    "second_teams": [
+      "Georgia Tech",
+      "Virginia"
+    ],
+    "count": 7262
+  },
+  {
+    "top_teams": [
+      "Louisville",
+      "Pittsburgh",
+      "SMU"
+    ],
+    "second_teams": [],
+    "count": 7257
+  },
+  {
+    "top_teams": [
+      "Virginia"
+    ],
+    "second_teams": [
+      "Georgia Tech",
+      "Louisville",
+      "Miami",
+      "SMU"
+    ],
+    "count": 7252
+  },
+  {
+    "top_teams": [
+      "Duke"
+    ],
+    "second_teams": [
+      "Louisville",
+      "Pittsburgh",
+      "Virginia"
+    ],
+    "count": 7252
+  },
+  {
+    "top_teams": [
+      "Duke"
+    ],
+    "second_teams": [
+      "Pittsburgh"
+    ],
+    "count": 7229
+  },
+  {
+    "top_teams": [
+      "Georgia Tech"
+    ],
+    "second_teams": [
+      "Louisville",
+      "SMU"
+    ],
+    "count": 7215
+  },
+  {
+    "top_teams": [
+      "Miami",
+      "Pittsburgh",
+      "SMU"
+    ],
+    "second_teams": [],
+    "count": 7205
+  },
+  {
+    "top_teams": [
+      "Duke",
+      "Georgia Tech",
+      "Louisville",
+      "Miami",
+      "SMU",
+      "Virginia"
+    ],
+    "second_teams": [],
+    "count": 7201
+  },
+  {
+    "top_teams": [
+      "Georgia Tech"
+    ],
+    "second_teams": [
+      "Duke",
+      "Louisville",
+      "Miami",
+      "SMU",
+      "Virginia"
+    ],
+    "count": 7197
+  },
+  {
+    "top_teams": [
+      "Virginia"
+    ],
+    "second_teams": [
+      "Georgia Tech",
+      "Louisville",
+      "Miami"
+    ],
+    "count": 7195
+  },
+  {
+    "top_teams": [
+      "Duke"
+    ],
+    "second_teams": [
+      "Louisville",
+      "Pittsburgh",
+      "SMU"
+    ],
+    "count": 7179
+  },
+  {
+    "top_teams": [
+      "Georgia Tech",
+      "Miami",
+      "Pittsburgh",
+      "SMU"
+    ],
+    "second_teams": [],
+    "count": 7149
+  },
+  {
+    "top_teams": [
+      "Georgia Tech"
+    ],
+    "second_teams": [
+      "Duke",
+      "Louisville",
+      "Miami",
+      "Virginia"
+    ],
+    "count": 7144
+  },
+  {
+    "top_teams": [
+      "Duke"
+    ],
+    "second_teams": [
+      "Miami",
+      "Pittsburgh",
+      "SMU",
+      "Virginia"
+    ],
+    "count": 7046
+  },
+  {
+    "top_teams": [
+      "SMU"
+    ],
+    "second_teams": [
+      "Georgia Tech",
+      "Miami",
+      "Pittsburgh"
+    ],
+    "count": 5012
+  },
+  {
+    "top_teams": [
+      "Duke",
+      "Georgia Tech",
+      "Louisville",
+      "Miami",
+      "Pittsburgh"
+    ],
+    "second_teams": [],
+    "count": 4988
+  },
+  {
+    "top_teams": [
+      "Duke",
+      "Louisville",
+      "Miami",
+      "Pittsburgh"
+    ],
+    "second_teams": [],
+    "count": 4986
+  },
+  {
+    "top_teams": [
+      "SMU"
+    ],
+    "second_teams": [
+      "Georgia Tech",
+      "Miami"
+    ],
+    "count": 4975
+  },
+  {
+    "top_teams": [
+      "Duke",
+      "Georgia Tech",
+      "Louisville",
+      "Miami",
+      "SMU"
+    ],
+    "second_teams": [],
+    "count": 4937
+  },
+  {
+    "top_teams": [
+      "SMU"
+    ],
+    "second_teams": [
+      "Miami",
+      "Pittsburgh"
+    ],
+    "count": 4920
+  },
+  {
+    "top_teams": [
+      "Georgia Tech"
+    ],
+    "second_teams": [
+      "Duke",
+      "Louisville",
+      "Miami",
+      "SMU"
+    ],
+    "count": 4904
+  },
+  {
+    "top_teams": [
+      "Duke",
+      "Miami",
+      "Pittsburgh"
+    ],
+    "second_teams": [],
+    "count": 4903
+  },
+  {
+    "top_teams": [
+      "Duke",
+      "Georgia Tech",
+      "Louisville",
+      "Miami"
+    ],
+    "second_teams": [],
+    "count": 4880
+  },
+  {
+    "top_teams": [
+      "Duke",
+      "Georgia Tech",
+      "Miami"
+    ],
+    "second_teams": [],
+    "count": 4878
+  },
+  {
+    "top_teams": [
+      "Duke",
+      "Georgia Tech",
+      "Louisville",
+      "Miami",
+      "Pittsburgh",
+      "SMU"
+    ],
+    "second_teams": [],
+    "count": 4877
+  },
+  {
+    "top_teams": [
+      "Duke",
+      "Louisville",
+      "Miami",
+      "Pittsburgh",
+      "SMU"
+    ],
+    "second_teams": [],
+    "count": 4872
+  },
+  {
+    "top_teams": [
+      "Georgia Tech"
+    ],
+    "second_teams": [
+      "Duke",
+      "Louisville",
+      "Miami"
+    ],
+    "count": 4868
+  },
+  {
+    "top_teams": [
+      "Duke",
+      "Georgia Tech",
+      "Miami",
+      "Pittsburgh"
+    ],
+    "second_teams": [],
+    "count": 4855
+  },
+  {
+    "top_teams": [
+      "Georgia Tech"
+    ],
+    "second_teams": [
+      "Duke",
+      "Miami"
+    ],
+    "count": 4846
+  },
+  {
+    "top_teams": [
+      "Duke"
+    ],
+    "second_teams": [
+      "Georgia Tech",
+      "Louisville",
+      "Miami",
+      "Virginia"
+    ],
+    "count": 2548
+  },
+  {
+    "top_teams": [
+      "Georgia Tech"
+    ],
+    "second_teams": [
+      "Miami"
+    ],
+    "count": 2504
+  },
+  {
+    "top_teams": [
+      "Virginia"
+    ],
+    "second_teams": [
+      "Duke",
+      "Miami",
+      "Pittsburgh"
+    ],
+    "count": 2488
+  },
+  {
+    "top_teams": [
+      "Duke"
+    ],
+    "second_teams": [
+      "Georgia Tech",
+      "Louisville",
+      "Miami",
+      "Pittsburgh",
+      "Virginia"
+    ],
+    "count": 2485
+  },
+  {
+    "top_teams": [
+      "Duke"
+    ],
+    "second_teams": [
+      "Louisville",
+      "Miami",
+      "Pittsburgh"
+    ],
+    "count": 2479
+  },
+  {
+    "top_teams": [
+      "Virginia"
+    ],
+    "second_teams": [
+      "Duke",
+      "Louisville",
+      "Miami",
+      "Pittsburgh"
+    ],
+    "count": 2468
+  },
+  {
+    "top_teams": [
+      "Georgia Tech"
+    ],
+    "second_teams": [
+      "Louisville",
+      "Miami"
+    ],
+    "count": 2467
+  },
+  {
+    "top_teams": [
+      "Georgia Tech",
+      "Louisville",
+      "Miami"
+    ],
+    "second_teams": [],
+    "count": 2463
+  },
+  {
+    "top_teams": [
+      "Duke"
+    ],
+    "second_teams": [
+      "Georgia Tech",
+      "Louisville",
+      "Miami",
+      "Pittsburgh",
+      "SMU"
+    ],
+    "count": 2460
+  },
+  {
+    "top_teams": [
+      "Duke"
+    ],
+    "second_teams": [
+      "Georgia Tech",
+      "Miami",
+      "Pittsburgh"
+    ],
+    "count": 2456
+  },
+  {
+    "top_teams": [
+      "Virginia"
+    ],
+    "second_teams": [
+      "Duke",
+      "Georgia Tech",
+      "Miami",
+      "Pittsburgh"
+    ],
+    "count": 2451
+  },
+  {
+    "top_teams": [
+      "Duke"
+    ],
+    "second_teams": [
+      "Georgia Tech",
+      "Louisville",
+      "Miami",
+      "SMU"
+    ],
+    "count": 2449
+  },
+  {
+    "top_teams": [
+      "Georgia Tech",
+      "Louisville",
+      "Miami",
+      "Pittsburgh"
+    ],
+    "second_teams": [],
+    "count": 2448
+  },
+  {
+    "top_teams": [
+      "Duke"
+    ],
+    "second_teams": [
+      "Miami",
+      "Pittsburgh"
+    ],
+    "count": 2439
+  },
+  {
+    "top_teams": [
+      "Louisville",
+      "Miami",
+      "Pittsburgh"
+    ],
+    "second_teams": [],
+    "count": 2436
+  },
+  {
+    "top_teams": [
+      "Virginia"
+    ],
+    "second_teams": [
+      "Duke",
+      "Georgia Tech",
+      "Louisville",
+      "Miami",
+      "Pittsburgh",
+      "SMU"
+    ],
+    "count": 2435
+  },
+  {
+    "top_teams": [
+      "Duke"
+    ],
+    "second_teams": [
+      "Louisville",
+      "Miami",
+      "Pittsburgh",
+      "Virginia"
+    ],
+    "count": 2431
+  },
+  {
+    "top_teams": [
+      "Duke"
+    ],
+    "second_teams": [
+      "Louisville",
+      "Miami",
+      "Pittsburgh",
+      "SMU"
+    ],
+    "count": 2429
+  },
+  {
+    "top_teams": [
+      "Georgia Tech",
+      "Louisville",
+      "Miami",
+      "SMU"
+    ],
+    "second_teams": [],
+    "count": 2424
+  },
+  {
+    "top_teams": [
+      "Duke"
+    ],
+    "second_teams": [
+      "Georgia Tech",
+      "Louisville",
+      "Miami"
+    ],
+    "count": 2421
+  },
+  {
+    "top_teams": [
+      "Virginia"
+    ],
+    "second_teams": [
+      "Duke",
+      "Georgia Tech",
+      "Louisville",
+      "Miami"
+    ],
+    "count": 2420
+  },
+  {
+    "top_teams": [
+      "Duke"
+    ],
+    "second_teams": [
+      "Georgia Tech",
+      "Louisville",
+      "Miami",
+      "Pittsburgh"
+    ],
+    "count": 2420
+  },
+  {
+    "top_teams": [
+      "Duke"
+    ],
+    "second_teams": [
+      "Georgia Tech",
+      "Miami",
+      "Pittsburgh",
+      "Virginia"
+    ],
+    "count": 2414
+  },
+  {
+    "top_teams": [
+      "Duke"
+    ],
+    "second_teams": [
+      "Louisville",
+      "Miami",
+      "Pittsburgh",
+      "SMU",
+      "Virginia"
+    ],
+    "count": 2405
+  },
+  {
+    "top_teams": [
+      "Duke"
+    ],
+    "second_teams": [
+      "Georgia Tech",
+      "Louisville",
+      "Miami",
+      "Pittsburgh",
+      "SMU",
+      "Virginia"
+    ],
+    "count": 2403
+  },
+  {
+    "top_teams": [
+      "Duke"
+    ],
+    "second_teams": [
+      "Georgia Tech",
+      "Miami"
+    ],
+    "count": 2403
+  },
+  {
+    "top_teams": [
+      "Georgia Tech"
+    ],
+    "second_teams": [
+      "Louisville",
+      "Miami",
+      "SMU"
+    ],
+    "count": 2402
+  },
+  {
+    "top_teams": [
+      "Miami",
+      "Pittsburgh"
+    ],
+    "second_teams": [],
+    "count": 2399
+  },
+  {
+    "top_teams": [
+      "Georgia Tech",
+      "Miami",
+      "Pittsburgh"
+    ],
+    "second_teams": [],
+    "count": 2398
+  },
+  {
+    "top_teams": [
+      "Georgia Tech",
+      "Miami"
+    ],
+    "second_teams": [],
+    "count": 2394
+  },
+  {
+    "top_teams": [
+      "Duke"
+    ],
+    "second_teams": [
+      "Georgia Tech",
+      "Louisville",
+      "Miami",
+      "SMU",
+      "Virginia"
+    ],
+    "count": 2389
+  },
+  {
+    "top_teams": [
+      "Duke"
+    ],
+    "second_teams": [
+      "Georgia Tech",
+      "Miami",
+      "Virginia"
+    ],
+    "count": 2389
+  },
+  {
+    "top_teams": [
+      "Louisville",
+      "Miami",
+      "Pittsburgh",
+      "SMU"
+    ],
+    "second_teams": [],
+    "count": 2388
+  },
+  {
+    "top_teams": [
+      "Georgia Tech",
+      "Louisville",
+      "Miami",
+      "Pittsburgh",
+      "SMU"
+    ],
+    "second_teams": [],
+    "count": 2384
+  },
+  {
+    "top_teams": [
+      "Virginia"
+    ],
+    "second_teams": [
+      "Duke",
+      "Louisville",
+      "Miami",
+      "Pittsburgh",
+      "SMU"
+    ],
+    "count": 2384
+  },
+  {
+    "top_teams": [
+      "Virginia"
+    ],
+    "second_teams": [
+      "Duke",
+      "Georgia Tech",
+      "Louisville",
+      "Miami",
+      "Pittsburgh"
+    ],
+    "count": 2345
+  },
+  {
+    "top_teams": [
+      "Virginia"
+    ],
+    "second_teams": [
+      "Duke",
+      "Georgia Tech",
+      "Louisville",
+      "Miami",
+      "SMU"
+    ],
+    "count": 2339
+  },
+  {
+    "top_teams": [
+      "Duke"
+    ],
+    "second_teams": [
+      "Miami",
+      "Pittsburgh",
+      "Virginia"
+    ],
+    "count": 2330
+  },
+  {
+    "top_teams": [
+      "Virginia"
+    ],
+    "second_teams": [
+      "Duke",
+      "Georgia Tech",
+      "Miami"
+    ],
+    "count": 2318
+  },
+  {
+    "top_teams": [
+      "Georgia Tech"
+    ],
+    "second_teams": [
+      "California",
+      "Duke",
+      "Louisville",
+      "Miami",
+      "Pittsburgh",
+      "SMU",
+      "Virginia",
+      "Wake Forest"
+    ],
+    "count": 1566
+  },
+  {
+    "top_teams": [
+      "Georgia Tech"
+    ],
+    "second_teams": [
+      "Duke",
+      "Louisville",
+      "Miami",
+      "Pittsburgh",
+      "SMU",
+      "Virginia",
+      "Wake Forest"
+    ],
+    "count": 1512
+  },
+  {
+    "top_teams": [
+      "Pittsburgh"
+    ],
+    "second_teams": [
+      "California",
+      "Duke",
+      "Georgia Tech",
+      "Louisville",
+      "Miami",
+      "SMU",
+      "Virginia",
+      "Wake Forest"
+    ],
+    "count": 1378
+  },
+  {
+    "top_teams": [
+      "Pittsburgh"
+    ],
+    "second_teams": [
+      "Duke",
+      "Georgia Tech",
+      "Louisville",
+      "Miami",
+      "SMU",
+      "Virginia",
+      "Wake Forest"
+    ],
+    "count": 1368
+  },
+  {
+    "top_teams": [
+      "Pittsburgh"
+    ],
+    "second_teams": [
+      "Duke",
+      "Georgia Tech",
+      "Louisville",
+      "SMU",
+      "Virginia",
+      "Wake Forest"
+    ],
+    "count": 1265
+  },
+  {
+    "top_teams": [
+      "Pittsburgh"
+    ],
+    "second_teams": [
+      "California",
+      "Duke",
+      "Georgia Tech",
+      "Louisville",
+      "SMU",
+      "Virginia",
+      "Wake Forest"
+    ],
+    "count": 1142
+  },
+  {
+    "top_teams": [
+      "Georgia Tech"
+    ],
+    "second_teams": [
+      "Duke",
+      "Louisville",
+      "Miami",
+      "North Carolina",
+      "Pittsburgh",
+      "SMU",
+      "Virginia"
+    ],
+    "count": 904
+  },
+  {
+    "top_teams": [
+      "Georgia Tech"
+    ],
+    "second_teams": [
+      "California",
+      "Duke",
+      "Louisville",
+      "Miami",
+      "North Carolina",
+      "Pittsburgh",
+      "SMU",
+      "Virginia"
+    ],
+    "count": 899
+  },
+  {
+    "top_teams": [
+      "Pittsburgh"
+    ],
+    "second_teams": [
+      "California",
+      "Duke",
+      "Georgia Tech",
+      "Louisville",
+      "SMU",
+      "Virginia",
+      "Virginia Tech",
+      "Wake Forest"
+    ],
+    "count": 796
+  },
+  {
+    "top_teams": [
+      "Pittsburgh"
+    ],
+    "second_teams": [
+      "Duke",
+      "Georgia Tech",
+      "Louisville",
+      "SMU",
+      "Virginia",
+      "Virginia Tech",
+      "Wake Forest"
+    ],
+    "count": 795
+  },
+  {
+    "top_teams": [
+      "Pittsburgh"
+    ],
+    "second_teams": [
+      "Duke",
+      "Georgia Tech",
+      "Louisville",
+      "North Carolina",
+      "SMU",
+      "Virginia"
+    ],
+    "count": 793
+  },
+  {
+    "top_teams": [
+      "Pittsburgh"
+    ],
+    "second_teams": [
+      "California",
+      "Duke",
+      "Georgia Tech",
+      "Louisville",
+      "Miami",
+      "North Carolina",
+      "SMU",
+      "Virginia"
+    ],
+    "count": 758
+  },
+  {
+    "top_teams": [
+      "Pittsburgh"
+    ],
+    "second_teams": [
+      "Duke",
+      "Georgia Tech",
+      "Louisville",
+      "Miami",
+      "North Carolina",
+      "SMU",
+      "Virginia"
+    ],
+    "count": 755
+  },
+  {
+    "top_teams": [
+      "Pittsburgh"
+    ],
+    "second_teams": [
+      "California",
+      "Duke",
+      "Georgia Tech",
+      "Louisville",
+      "North Carolina",
+      "SMU",
+      "Virginia"
+    ],
+    "count": 750
+  },
+  {
+    "top_teams": [
+      "Georgia Tech"
+    ],
+    "second_teams": [
+      "Duke",
+      "Louisville",
+      "Miami",
+      "Pittsburgh",
+      "SMU",
+      "Virginia"
+    ],
+    "count": 628
+  },
+  {
+    "top_teams": [
+      "Pittsburgh"
+    ],
+    "second_teams": [
+      "Duke",
+      "Georgia Tech",
+      "Louisville",
+      "Miami",
+      "SMU",
+      "Virginia"
+    ],
+    "count": 607
+  },
+  {
+    "top_teams": [
+      "Georgia Tech"
+    ],
+    "second_teams": [
+      "California",
+      "Duke",
+      "Louisville",
+      "Miami",
+      "Pittsburgh",
+      "SMU",
+      "Virginia",
+      "Virginia Tech",
+      "Wake Forest"
+    ],
+    "count": 601
+  },
+  {
+    "top_teams": [
+      "Pittsburgh"
+    ],
+    "second_teams": [
+      "California",
+      "Duke",
+      "Georgia Tech",
+      "Louisville",
+      "Miami",
+      "SMU",
+      "Virginia"
+    ],
+    "count": 595
+  },
+  {
+    "top_teams": [
+      "Georgia Tech"
+    ],
+    "second_teams": [
+      "Duke",
+      "Louisville",
+      "Miami",
+      "Pittsburgh",
+      "SMU",
+      "Virginia",
+      "Virginia Tech",
+      "Wake Forest"
+    ],
+    "count": 585
+  },
+  {
+    "top_teams": [
+      "Georgia Tech"
+    ],
+    "second_teams": [
+      "California",
+      "Duke",
+      "Louisville",
+      "Miami",
+      "Pittsburgh",
+      "SMU",
+      "Virginia"
+    ],
+    "count": 573
+  },
+  {
+    "top_teams": [
+      "Pittsburgh"
+    ],
+    "second_teams": [
+      "California",
+      "Duke",
+      "Georgia Tech",
+      "Louisville",
+      "North Carolina",
+      "SMU",
+      "Virginia",
+      "Virginia Tech"
+    ],
+    "count": 475
+  },
+  {
+    "top_teams": [
+      "Georgia Tech"
+    ],
+    "second_teams": [
+      "Duke",
+      "Louisville",
+      "Pittsburgh",
+      "SMU",
+      "Virginia",
+      "Virginia Tech",
+      "Wake Forest"
+    ],
+    "count": 475
+  },
+  {
+    "top_teams": [
+      "Georgia Tech"
+    ],
+    "second_teams": [
+      "Duke",
+      "Louisville",
+      "Pittsburgh",
+      "SMU",
+      "Virginia",
+      "Wake Forest"
+    ],
+    "count": 473
+  },
+  {
+    "top_teams": [
+      "Pittsburgh"
+    ],
+    "second_teams": [
+      "Duke",
+      "Georgia Tech",
+      "Louisville",
+      "North Carolina",
+      "SMU",
+      "Virginia",
+      "Virginia Tech"
+    ],
+    "count": 462
+  },
+  {
+    "top_teams": [
+      "Georgia Tech"
+    ],
+    "second_teams": [
+      "California",
+      "Duke",
+      "Louisville",
+      "Pittsburgh",
+      "SMU",
+      "Virginia",
+      "Virginia Tech",
+      "Wake Forest"
+    ],
+    "count": 457
+  },
+  {
+    "top_teams": [
+      "Georgia Tech"
+    ],
+    "second_teams": [
+      "California",
+      "Duke",
+      "Louisville",
+      "Pittsburgh",
+      "SMU",
+      "Virginia",
+      "Wake Forest"
+    ],
+    "count": 452
+  },
+  {
+    "top_teams": [
+      "Pittsburgh"
+    ],
+    "second_teams": [
+      "California",
+      "Duke",
+      "Georgia Tech",
+      "Louisville",
+      "SMU",
+      "Virginia"
+    ],
+    "count": 445
+  },
+  {
+    "top_teams": [
+      "Georgia Tech"
+    ],
+    "second_teams": [
+      "Duke",
+      "Louisville",
+      "Miami",
+      "Pittsburgh",
+      "SMU",
+      "Virginia",
+      "Virginia Tech"
+    ],
+    "count": 340
+  },
+  {
+    "top_teams": [
+      "Pittsburgh"
+    ],
+    "second_teams": [
+      "California",
+      "Duke",
+      "Georgia Tech",
+      "Louisville",
+      "Miami",
+      "SMU",
+      "Virginia",
+      "Virginia Tech",
+      "Wake Forest"
+    ],
+    "count": 331
+  },
+  {
+    "top_teams": [
+      "Pittsburgh"
+    ],
+    "second_teams": [
+      "Duke",
+      "Georgia Tech",
+      "Louisville",
+      "NC State",
+      "SMU",
+      "Virginia",
+      "Wake Forest"
+    ],
+    "count": 324
+  },
+  {
+    "top_teams": [
+      "Georgia Tech"
+    ],
+    "second_teams": [
+      "California",
+      "Duke",
+      "Louisville",
+      "Miami",
+      "North Carolina",
+      "Pittsburgh",
+      "SMU",
+      "Virginia",
+      "Virginia Tech"
+    ],
+    "count": 324
+  },
+  {
+    "top_teams": [
+      "Pittsburgh"
+    ],
+    "second_teams": [
+      "Duke",
+      "Georgia Tech",
+      "Louisville",
+      "SMU",
+      "Virginia",
+      "Virginia Tech"
+    ],
+    "count": 318
+  },
+  {
+    "top_teams": [
+      "Georgia Tech"
+    ],
+    "second_teams": [
+      "Duke",
+      "Louisville",
+      "Miami",
+      "NC State",
+      "Pittsburgh",
+      "SMU",
+      "Virginia"
+    ],
+    "count": 316
+  },
+  {
+    "top_teams": [
+      "Pittsburgh"
+    ],
+    "second_teams": [
+      "Duke",
+      "Georgia Tech",
+      "Louisville",
+      "NC State",
+      "SMU",
+      "Virginia"
+    ],
+    "count": 313
+  },
+  {
+    "top_teams": [
+      "Georgia Tech"
+    ],
+    "second_teams": [
+      "California",
+      "Duke",
+      "Louisville",
+      "North Carolina",
+      "Pittsburgh",
+      "SMU",
+      "Virginia",
+      "Virginia Tech"
+    ],
+    "count": 311
+  },
+  {
+    "top_teams": [
+      "Pittsburgh"
+    ],
+    "second_teams": [
+      "Duke",
+      "Georgia Tech",
+      "Louisville",
+      "Miami",
+      "SMU",
+      "Virginia",
+      "Virginia Tech",
+      "Wake Forest"
+    ],
+    "count": 309
+  },
+  {
+    "top_teams": [
+      "Georgia Tech"
+    ],
+    "second_teams": [
+      "California",
+      "Duke",
+      "Louisville",
+      "Miami",
+      "NC State",
+      "Pittsburgh",
+      "SMU",
+      "Virginia",
+      "Wake Forest"
+    ],
+    "count": 308
+  },
+  {
+    "top_teams": [
+      "Georgia Tech"
+    ],
+    "second_teams": [
+      "Duke",
+      "Louisville",
+      "Miami",
+      "NC State",
+      "Pittsburgh",
+      "SMU",
+      "Virginia",
+      "Wake Forest"
+    ],
+    "count": 307
+  },
+  {
+    "top_teams": [
+      "Pittsburgh"
+    ],
+    "second_teams": [
+      "California",
+      "Duke",
+      "Georgia Tech",
+      "Louisville",
+      "NC State",
+      "SMU",
+      "Virginia"
+    ],
+    "count": 307
+  },
+  {
+    "top_teams": [
+      "Pittsburgh"
+    ],
+    "second_teams": [
+      "California",
+      "Duke",
+      "Georgia Tech",
+      "Louisville",
+      "SMU",
+      "Virginia",
+      "Virginia Tech"
+    ],
+    "count": 304
+  },
+  {
+    "top_teams": [
+      "Georgia Tech"
+    ],
+    "second_teams": [
+      "California",
+      "Duke",
+      "Louisville",
+      "Miami",
+      "NC State",
+      "Pittsburgh",
+      "SMU",
+      "Virginia"
+    ],
+    "count": 304
+  },
+  {
+    "top_teams": [
+      "Georgia Tech"
+    ],
+    "second_teams": [
+      "California",
+      "Duke",
+      "Louisville",
+      "Miami",
+      "Pittsburgh",
+      "SMU",
+      "Virginia",
+      "Virginia Tech"
+    ],
+    "count": 301
+  },
+  {
+    "top_teams": [
+      "Georgia Tech"
+    ],
+    "second_teams": [
+      "Duke",
+      "Louisville",
+      "Miami",
+      "North Carolina",
+      "Pittsburgh",
+      "SMU",
+      "Virginia",
+      "Virginia Tech"
+    ],
+    "count": 301
+  },
+  {
+    "top_teams": [
+      "Georgia Tech"
+    ],
+    "second_teams": [
+      "Duke",
+      "Louisville",
+      "North Carolina",
+      "Pittsburgh",
+      "SMU",
+      "Virginia",
+      "Virginia Tech"
+    ],
+    "count": 295
+  },
+  {
+    "top_teams": [
+      "Pittsburgh"
+    ],
+    "second_teams": [
+      "California",
+      "Duke",
+      "Georgia Tech",
+      "Louisville",
+      "NC State",
+      "SMU",
+      "Virginia",
+      "Wake Forest"
+    ],
+    "count": 294
+  },
+  {
+    "top_teams": [
+      "Georgia Tech"
+    ],
+    "second_teams": [
+      "California",
+      "Duke",
+      "Louisville",
+      "North Carolina",
+      "Pittsburgh",
+      "SMU",
+      "Virginia"
+    ],
+    "count": 272
+  },
+  {
+    "top_teams": [
+      "Georgia Tech"
+    ],
+    "second_teams": [
+      "Duke",
+      "Louisville",
+      "North Carolina",
+      "Pittsburgh",
+      "SMU",
+      "Virginia"
+    ],
+    "count": 267
+  },
+  {
+    "top_teams": [
+      "Georgia Tech"
+    ],
+    "second_teams": [
+      "Duke",
+      "Louisville",
+      "NC State",
+      "Pittsburgh",
+      "SMU",
+      "Virginia"
+    ],
+    "count": 189
+  },
+  {
+    "top_teams": [
+      "Pittsburgh"
+    ],
+    "second_teams": [
+      "Duke",
+      "Georgia Tech",
+      "Louisville",
+      "Miami",
+      "SMU",
+      "Virginia",
+      "Virginia Tech"
+    ],
+    "count": 170
+  },
+  {
+    "top_teams": [
+      "Georgia Tech"
+    ],
+    "second_teams": [
+      "Duke",
+      "Louisville",
+      "NC State",
+      "Pittsburgh",
+      "SMU",
+      "Virginia",
+      "Virginia Tech",
+      "Wake Forest"
+    ],
+    "count": 169
+  },
+  {
+    "top_teams": [
+      "Georgia Tech"
+    ],
+    "second_teams": [
+      "California",
+      "Duke",
+      "Louisville",
+      "NC State",
+      "Pittsburgh",
+      "SMU",
+      "Virginia",
+      "Wake Forest"
+    ],
+    "count": 167
+  },
+  {
+    "top_teams": [
+      "Pittsburgh"
+    ],
+    "second_teams": [
+      "California",
+      "Duke",
+      "Georgia Tech",
+      "Louisville",
+      "Miami",
+      "NC State",
+      "SMU",
+      "Virginia"
+    ],
+    "count": 165
+  },
+  {
+    "top_teams": [
+      "Georgia Tech"
+    ],
+    "second_teams": [
+      "California",
+      "Duke",
+      "Louisville",
+      "Pittsburgh",
+      "SMU",
+      "Virginia"
+    ],
+    "count": 163
+  },
+  {
+    "top_teams": [
+      "Georgia Tech"
+    ],
+    "second_teams": [
+      "California",
+      "Duke",
+      "Louisville",
+      "NC State",
+      "Pittsburgh",
+      "SMU",
+      "Virginia",
+      "Virginia Tech",
+      "Wake Forest"
+    ],
+    "count": 161
+  },
+  {
+    "top_teams": [
+      "Pittsburgh"
+    ],
+    "second_teams": [
+      "Duke",
+      "Georgia Tech",
+      "Louisville",
+      "NC State",
+      "SMU",
+      "Virginia",
+      "Virginia Tech"
+    ],
+    "count": 160
+  },
+  {
+    "top_teams": [
+      "Pittsburgh"
+    ],
+    "second_teams": [
+      "Duke",
+      "Georgia Tech",
+      "Louisville",
+      "Miami",
+      "North Carolina",
+      "SMU",
+      "Virginia",
+      "Virginia Tech"
+    ],
+    "count": 159
+  },
+  {
+    "top_teams": [
+      "Georgia Tech"
+    ],
+    "second_teams": [
+      "Duke",
+      "Louisville",
+      "NC State",
+      "Pittsburgh",
+      "SMU",
+      "Virginia",
+      "Wake Forest"
+    ],
+    "count": 158
+  },
+  {
+    "top_teams": [
+      "Georgia Tech"
+    ],
+    "second_teams": [
+      "California",
+      "Duke",
+      "Louisville",
+      "NC State",
+      "Pittsburgh",
+      "SMU",
+      "Virginia"
+    ],
+    "count": 158
+  },
+  {
+    "top_teams": [
+      "Pittsburgh"
+    ],
+    "second_teams": [
+      "California",
+      "Duke",
+      "Georgia Tech",
+      "Louisville",
+      "NC State",
+      "SMU",
+      "Virginia",
+      "Virginia Tech"
+    ],
+    "count": 155
+  },
+  {
+    "top_teams": [
+      "Pittsburgh"
+    ],
+    "second_teams": [
+      "Duke",
+      "Georgia Tech",
+      "Louisville",
+      "Miami",
+      "NC State",
+      "SMU",
+      "Virginia"
+    ],
+    "count": 151
+  },
+  {
+    "top_teams": [
+      "Pittsburgh"
+    ],
+    "second_teams": [
+      "Duke",
+      "Georgia Tech",
+      "Louisville",
+      "NC State",
+      "SMU",
+      "Virginia",
+      "Virginia Tech",
+      "Wake Forest"
+    ],
+    "count": 146
+  },
+  {
+    "top_teams": [
+      "Georgia Tech"
+    ],
+    "second_teams": [
+      "Duke",
+      "Louisville",
+      "NC State",
+      "Pittsburgh",
+      "SMU",
+      "Virginia",
+      "Virginia Tech"
+    ],
+    "count": 145
+  },
+  {
+    "top_teams": [
+      "Georgia Tech"
+    ],
+    "second_teams": [
+      "California",
+      "Duke",
+      "Louisville",
+      "NC State",
+      "Pittsburgh",
+      "SMU",
+      "Virginia",
+      "Virginia Tech"
+    ],
+    "count": 142
+  },
+  {
+    "top_teams": [
+      "Pittsburgh"
+    ],
+    "second_teams": [
+      "California",
+      "Duke",
+      "Georgia Tech",
+      "Louisville",
+      "Miami",
+      "North Carolina",
+      "SMU",
+      "Virginia",
+      "Virginia Tech"
+    ],
+    "count": 142
+  },
+  {
+    "top_teams": [
+      "Pittsburgh"
+    ],
+    "second_teams": [
+      "California",
+      "Duke",
+      "Georgia Tech",
+      "Louisville",
+      "Miami",
+      "NC State",
+      "SMU",
+      "Virginia",
+      "Wake Forest"
+    ],
+    "count": 142
+  },
+  {
+    "top_teams": [
+      "Georgia Tech"
+    ],
+    "second_teams": [
+      "Duke",
+      "Louisville",
+      "Pittsburgh",
+      "SMU",
+      "Virginia",
+      "Virginia Tech"
+    ],
+    "count": 141
+  },
+  {
+    "top_teams": [
+      "Pittsburgh"
+    ],
+    "second_teams": [
+      "California",
+      "Duke",
+      "Georgia Tech",
+      "Louisville",
+      "NC State",
+      "SMU",
+      "Virginia",
+      "Virginia Tech",
+      "Wake Forest"
+    ],
+    "count": 139
+  },
+  {
+    "top_teams": [
+      "Pittsburgh"
+    ],
+    "second_teams": [
+      "California",
+      "Duke",
+      "Georgia Tech",
+      "Louisville",
+      "Miami",
+      "SMU",
+      "Virginia",
+      "Virginia Tech"
+    ],
+    "count": 137
+  },
+  {
+    "top_teams": [
+      "Georgia Tech"
+    ],
+    "second_teams": [
+      "California",
+      "Duke",
+      "Louisville",
+      "Pittsburgh",
+      "SMU",
+      "Virginia",
+      "Virginia Tech"
+    ],
+    "count": 136
+  },
+  {
+    "top_teams": [
+      "Pittsburgh"
+    ],
+    "second_teams": [
+      "Duke",
+      "Georgia Tech",
+      "Louisville",
+      "Miami",
+      "NC State",
+      "SMU",
+      "Virginia",
+      "Wake Forest"
+    ],
+    "count": 131
+  }
+]
